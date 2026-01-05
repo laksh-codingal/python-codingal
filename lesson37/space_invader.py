@@ -46,6 +46,7 @@ bulletX = 0
 bulletY = PLAYER_START_Y
 bulletX_change = 0
 bulletY_change = BULLET_SPEED_Y
+bullet_state = "ready"
 
 
 score_value = 0
